@@ -1,0 +1,9 @@
+flask==2.2.2
+flask-smorest
+python-dotenv
+sqlalchemy==2.0.22
+flask-sqlalchemy==3.0.3
+Werkzeug==2.3.7
+flask-jwt-extended
+passlib
+flask-migrate
